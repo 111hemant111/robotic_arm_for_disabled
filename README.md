@@ -5,4 +5,4 @@ A robotic arm that can be mounted onto an electric wheelchair and used by an ind
 Final product in a set-up to pick and drop the pill-box into the plastic tub.
 
 ## Scope for improvement
-This is a fully functional final product. In this final version, the source for joystick and smartphone control are independant. This project can be improved such that joystick and smartphone control can be integrated together. Please refer to [schematics](/schematics) to improve upon the progress.
+This is a fully functional final product. In this final version, the source for joystick and smartphone control are independant. This project can be improved such that joystick and smartphone control can be integrated together. Please refer to [schematics](/schematics) and [docs](/docs) to improve upon the progress.
