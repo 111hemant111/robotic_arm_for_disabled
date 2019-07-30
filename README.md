@@ -4,6 +4,9 @@ A robotic arm that can be mounted onto an electric wheelchair and used by an ind
 ## Status
 Completed. Last update Aug 2018. Refer to 'Scope for Improvement' section.
 
+## Components used
+For the extensive list of components used, please refer to the [project report](/docs/report.pdf).
+
 ## Finished product
 ![Final product](docs/arm_pose.JPG?raw=true "Final product")
 
