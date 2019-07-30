@@ -11,6 +11,6 @@ Completed. Last update Aug 2018. Refer to 'Scope for Improvement' section.
 This is a fully functional final product. In this final version, the source for joystick and smartphone control are independant. This project can be improved such that joystick and smartphone control can be integrated together. Please refer to [schematics](/schematics) and [docs](/docs) to improve upon the progress.
 
 ## License
-Copyright 2018 Hemant Kuruva
+&copy; 2018 Hemant Kuruva
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so.
